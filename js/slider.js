@@ -13,6 +13,7 @@ function startSlider()
 }
 
 var j=0;
-var image_files=['a.jpg','b.jpg','c.jpg','d.jpg'];
+var image_files=['a.jpg','b.jpg','c.jfif','d.png','e.jpg'];
 window.setInterval(startsSlider,1000);
+
 
